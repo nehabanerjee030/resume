@@ -1,9 +1,9 @@
 body {
-  background-color: #DADDFC;
+  background-color: #D3DEDC;
 }
 
 hr {
-  background-color: #DADDFC;
+  background-color: #D3DEDC;
   border-style: dotted none none none;
   width: 5%;
   border-width: 5px;
@@ -16,19 +16,28 @@ img {
 }
 
 div {
-  border-radius: 50px;
+  border-radius: 10px;
   padding: 50px;
   margin: 20px;
-  background-color: #D3E4CD;
+  background-color: #7C99AC;
   box-shadow: 1px 1px 1px 1px #99A799;
 }
 
 h1 {
   color: #FFEFEF;
 }
+label{
+  color: #FFEFEF;
+}
 
 h3 {
-  color: #7C99AC;
+  color: #FFEFEF;
+}
+p {
+  color: #D3DEDC;
+}
+ul{
+  color: #D3DEDC;
 }
 
 .tableStyle {
@@ -64,5 +73,9 @@ h3 {
   padding-bottom: 12px;
   text-align: center;
   background-color: #7C99AC;
-  color: white;
+  color: #FFEFEF;
+}
+.contactStyle img {
+  height: 50px;
+  width: 50px;  
 }
